@@ -12,4 +12,4 @@ diriger droit sur elle !"
 Le capitain sortit son canon"
 
 
-const ADA = 'école'
+let ADA = 'école'
